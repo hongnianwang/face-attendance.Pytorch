@@ -1,0 +1,8 @@
+torch==0.4.1
+torchvision==0.2.1
+Pillow==5.1.0
+pandas==0.20.3
+wxPython==4.0.4
+PyMySQL==0.9.3
+opencv-python==3.4.0.12
+matplotlib==2.0.2
